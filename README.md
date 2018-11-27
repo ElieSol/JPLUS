@@ -9,21 +9,7 @@ There are 3 types of objects: Lipids, enzymes and metabolites.
 The Lipids and enzymes are placed just like displayed on the figure. 
 And metabolites are randomly place on the board and can change position during the game.
  _____________________________
-|E| |E| |E| |E| |E| |E| |E| |E|    
-| | |L| |L| |L| |L| |L| |L| | |    
-| |L| |L| |L| |L| |L| |L| | | |   
-|L| |L| |L| |L| |L| |L| |L| | |
-| | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | |              
-| | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | |
-| | |L| |L| |L| |L| |L| |L| |L|
-| |L| |L| |L| |L| |L| |L| |L| |
-| | |L| |L| |L| |L| |L| |L| | |
-|E| |E| |E| |E| |E| |E| |E| |E|
+
 _______________________________
 Figure: Position of the objects during the beginning of the game
 
