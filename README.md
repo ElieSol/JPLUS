@@ -8,8 +8,8 @@ JPLUS is a table game similar to chess, it's basically a biology version of ches
 There are 3 types of objects: Lipids, enzymes and metabolites.
 The Lipids and enzymes are placed just like displayed on the figure. 
 And metabolites are randomly place on the board and can change position during the game.
- _____________________________
-
+_____________________________
+![alt text](https://github.com/ElieSol/JPLUS/blob/master/Display_Board.png)
 _______________________________
 Figure: Position of the objects during the beginning of the game
 
